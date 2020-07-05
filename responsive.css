@@ -1,0 +1,114 @@
+@media (max-width:900px) {
+  .header-contents a {
+    font-size: 14px;
+    padding: 15px 10px;
+  }
+
+  .header-content a {
+    font-size: 12px;
+  }
+
+  .main-top h1 {
+    font-size: 26px;
+    top: 50%;
+    left: 10%;
+  }
+
+  .main-header {
+    font-size: 28px;
+  }
+
+  .profile-contents img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 20px;
+  }
+
+  .profile-contents td {
+    font-size: 12px;
+  }
+
+  .skill-contents img {
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+  }
+
+  .service-contents img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+  }
+  
+  .service-text {
+    font-size: 12px;
+    padding: 0 20px;
+    line-height: 30px;
+  }
+
+  .portfolio-contents {
+    width: 100%;
+  }
+
+  .portfolio-content {
+    line-height: 26px;
+    width: 33%;
+    padding: 0 30px;
+  }
+
+  .portfolio-content img {
+    width: 140px;
+    height: 100px;
+  }
+  
+  .portfolio-content h2 {
+    font-size: 15px;
+  }
+  
+  .portfolio-content p {
+    font-size: 10px;
+  }
+
+  .sns-content {
+    padding: 20px 40px;
+  }
+  
+  .sns-content a {
+    font-size: 60px;
+    text-decoration: none;
+  }
+  
+  .sns-content h2 {
+    padding: 10px 0;
+    font-size: 12px;
+  }
+
+  .topix-left {
+    width: 40%;
+    line-height: 16px;
+  }
+
+  .topix-left h2 ,.topix-left h3 {
+    font-size: 12px;
+  }
+  
+  .topix-left p {
+    font-size: 10px;
+  }
+  
+  .topix-photo img {
+    width: 120px;
+    height: 120px;
+  }
+
+  iframe {
+    width: 60%;
+    height: 300px;
+  }
+  
+footer {
+  height: 40px;
+  font-size: 8px;
+}
+}
